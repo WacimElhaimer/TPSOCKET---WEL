@@ -16,10 +16,10 @@ namespace TPSocket
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
-            // Créez une nouvelle instance de votre formulaire Form1
+            // init form
             Communication mainForm = new Communication();
 
-            // Appelez Application.Run pour démarrer l'application Windows Forms
+            // call form & show 
             Application.Run(mainForm);
         }
     }
