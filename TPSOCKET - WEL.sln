@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPSOCKET - WEL", "TPSOCKET - WEL\TPSOCKET - WEL.csproj", "{5F4E9E2C-4571-4416-A998-9CB54AEDFF6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F4E9E2C-4571-4416-A998-9CB54AEDFF6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F4E9E2C-4571-4416-A998-9CB54AEDFF6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F4E9E2C-4571-4416-A998-9CB54AEDFF6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F4E9E2C-4571-4416-A998-9CB54AEDFF6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D7501E2-147D-4200-AD03-D0699F83269B}
+	EndGlobalSection
+EndGlobal
